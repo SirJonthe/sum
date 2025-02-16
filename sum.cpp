@@ -1,4 +1,5 @@
-/// @file
+/// @file sum.cpp
+/// @brief Contains a minimalist checksum/hashing library.
 /// @author github.com/SirJonthe
 /// @date 2023
 /// @copyright Public domain.
